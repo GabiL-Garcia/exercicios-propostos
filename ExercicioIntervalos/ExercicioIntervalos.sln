@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioIntervalos", "ExercicioIntervalos\ExercicioIntervalos.csproj", "{BBD4058C-B06F-425C-A016-3441E3411A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD4058C-B06F-425C-A016-3441E3411A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD4058C-B06F-425C-A016-3441E3411A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD4058C-B06F-425C-A016-3441E3411A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD4058C-B06F-425C-A016-3441E3411A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C402D1-47A3-498E-8F1F-65A6D0591D5F}
+	EndGlobalSection
+EndGlobal
